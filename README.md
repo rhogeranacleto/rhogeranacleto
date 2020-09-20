@@ -1,8 +1,5 @@
 ![header.svg](header.svg)
 
-<br>
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogeranacleto&theme=tokyonight&layout=compact"/>
 
