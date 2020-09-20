@@ -1,5 +1,6 @@
 ![header.svg](header.svg)
 
+<hr>
 <br>
 
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=22xbyei3onruqkyzrf2n6fmbi&cover_image=true" />
