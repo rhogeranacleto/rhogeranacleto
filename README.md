@@ -16,4 +16,4 @@
     <img src='https://www.flaticon.com/svg/static/icons/svg/174/174857.svg' alt='linkedin' height='40'>
   </a>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=rhogeranacleto"/>
+<!-- <img src="https://visitor-badge.glitch.me/badge?page_id=rhogeranacleto"/> -->
