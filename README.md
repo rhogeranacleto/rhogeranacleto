@@ -3,7 +3,7 @@
 <hr>
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22xbyei3onruqkyzrf2n6fmbi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22xbyei3onruqkyzrf2n6fmbi&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)]([https://github.com/kittinan/spotify-github-profile](https://open.spotify.com/user/22xbyei3onruqkyzrf2n6fmbi?si=c18c924773c441c7))
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhogeranacleto&theme=tokyonight&layout=compact"/>
 <br><br>
